@@ -125,23 +125,4 @@ def calculadora(x,y):
 calculadora(2,4)
 
 
-"""6) (Opcional) Conversión imperial: Desarrollar un programa en Python que pueda convertir
-gramos a libras, centímetros a pulgadas y kilómetros a millas. El programa debe permitir la
-conversión en ambos sentidos. 1.60934 Km = 1 milla , 0.393701 pulgadas = 1 cm , 0.00220462 libras = 1 gramo"""
 
-"""7) (Opcional) Cuando un año es bisiesto, el mes más corto del año, febrero, tiene 29 días en
-vez de 28. Esto sucede casi cada 4 años. Los tres criterios que permiten saber si un año es
-bisiesto en el calendario gregoriano (el nuestro) son los siguientes:
-• Si el año es divisible enteramente por 4, es bisiesto a menos que: o El año sea divisible por
-100, entonces NO es bisiesto, a menos que:
-▪ El año sea también divisible por 400. Entonces sí es un año bisiesto. Esto significa que
-en el calendario gregoriano los años 2000 y 2400 son bisiestos, mientras que los años 1900,
-2100, 2200 y 2300 no son bisiestos.
-a) Escriba una función que tome un año y diga si es bisiesto o no.
-b) Modifique su programa para que devuelva todos los años bisiestos entre el año
-actual y el año pasado a la función como parámetro (este debe ser posterior al año actual)."""
-
-
-"""8) (Opcional) Si listamos todos los números naturales menores a 10 que son múltiplos de 3 o 5,
-obtenemos 3,5,6 y 9. La suma de estos múltiplos es 23. Encuentre la suma de todos los
-múltiplos de 3 o 5 menores a 1000."""
